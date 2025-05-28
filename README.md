@@ -1,5 +1,5 @@
 # MyDeepLearningFramework
-This my deep learning framework written in **python** using **numpy**.  
+This my deep learning framework written in **python** using **numpy**. You can run MNIST-cnn.ipynb and MNIST-mlp.ipynb and see the actual results (about 90%).
 List of implemented features:  
   1. Automatic Differentiation  
   2. CNN  
