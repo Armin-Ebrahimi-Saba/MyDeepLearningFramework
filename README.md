@@ -1,5 +1,7 @@
 # MyDeepLearningFramework
-This my deep learning framework written in **python** using **numpy**. You can run MNIST-cnn.ipynb and MNIST-mlp.ipynb and see the actual results (about 90%).
+This my deep learning framework written in **python** using **numpy**. You can run MNIST-cnn.ipynb and MNIST-mlp.ipynb and see the actual results (about 90%).\
+**using_pytorch_tensor.ipynb** is the implementation using pytorch tensor.\
+In **/mytorch** there is the implementation using my own implementation of Tensor.\
 List of implemented features:  
   1. Automatic Differentiation  
   2. CNN  
